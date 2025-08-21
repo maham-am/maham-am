@@ -1,49 +1,22 @@
- # 👋 Hi, I'm Maham!  
 
-💻 **Passionate Learner | Future Mobile App Developer | Tech Enthusiast** 🚀  
+<h3 align="center">A passionate frontend developer from India</h3>
 
----
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=maham-am&label=Profile%20views&color=0e75b6&style=flat" alt="maham-am" /> </p>
 
-## 🌟 About Me  
-- 👩‍🎓 Currently learning **Mobile App Development & Web Technologies**  
-- 🖊️ Skills in **JavaScript, HTML, CSS, Git & GitHub**  
-- 🎯 Goal: To become a professional **Mobile App Developer**  
-- ⚡ Fun Fact: *I turn coffee ☕ into code 💻*  
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=maham-am" alt="maham-am" /></a> </p>
 
----
+<p align="left"> <a href="https://twitter.com/maham" target="blank"><img src="https://img.shields.io/twitter/follow/maham?logo=twitter&style=for-the-badge" alt="maham" /></a> </p>
 
-## 🛠️ Skills & Tools  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/maham" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="maham" height="30" width="40" /></a>
+</p>
 
----
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://backbonejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/backbonejs/backbonejs-original-wordmark.svg" alt="backbonejs" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> </p>
 
-## 🏆 GitHub Trophies  
-[![trophy](https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=dracula&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)  
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=maham-am&show_icons=true&locale=en&layout=compact" alt="maham-am" /></p>
 
----
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=maham-am&show_icons=true&locale=en" alt="maham-am" /></p>
 
-## 📊 GitHub Stats  
-![Maham's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)  
-
-## 🔥 Streak Stats  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=dark)  
-
-## 📚 Top Languages  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight)  
-
----
-
-## 📫 Connect With Me  
-- 🌐 GitHub: [@YOUR_GITHUB_USERNAME](https://github.com/YOUR_GITHUB_USERNAME)  
-- 📧 Email: your-email@example.com  
-
----
-
-✨ *“Code, Learn, Repeat – that’s my way to success!”* ✨
-
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=maham-am&" alt="maham-am" /></p>
